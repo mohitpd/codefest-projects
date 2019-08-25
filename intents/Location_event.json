@@ -1,0 +1,52 @@
+{
+  "id": "f60ccba4-61e5-485d-aa32-3028be8c49f7",
+  "name": "Location_event",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "753ad3da-5713-4657-ac91-4e697b99a9b4",
+          "required": true,
+          "dataType": "@Location",
+          "name": "Location",
+          "value": "$Location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bd4ce1d9-4c4f-4cdb-a0b6-c77d3d5049ea",
+          "required": false,
+          "dataType": "@Community",
+          "name": "Community",
+          "value": "$Community",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hill Cart Road, Salbari, District Darjeeling, Sukna, West Bengal 734009"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

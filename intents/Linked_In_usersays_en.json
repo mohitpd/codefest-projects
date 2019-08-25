@@ -1,0 +1,100 @@
+[
+  {
+    "id": "b52865ef-04a0-4239-ace7-206483dd4cf8",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "linked in",
+        "alias": "LinkedIn",
+        "meta": "@LinkedIn",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "243ef66a-c956-4c23-8050-de6a4e93296f",
+    "data": [
+      {
+        "text": "linked in",
+        "alias": "LinkedIn",
+        "meta": "@LinkedIn",
+        "userDefined": false
+      },
+      {
+        "text": " social media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d236b912-2cbe-48b9-86a0-e809a454ac3d",
+    "data": [
+      {
+        "text": "what do you mean by ",
+        "userDefined": false
+      },
+      {
+        "text": "linked in",
+        "alias": "LinkedIn",
+        "meta": "@LinkedIn",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77ddcbda-028e-4c2e-867a-61fd38d2601d",
+    "data": [
+      {
+        "text": "Linked in",
+        "alias": "LinkedIn",
+        "meta": "@LinkedIn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dca2527-6cdc-473d-a035-3dcb62310702",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "linked in",
+        "alias": "LinkedIn",
+        "meta": "@LinkedIn",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

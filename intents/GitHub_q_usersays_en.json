@@ -1,0 +1,78 @@
+[
+  {
+    "id": "9047ccae-f168-45ea-8b54-9e780ece4c5c",
+    "data": [
+      {
+        "text": "git",
+        "alias": "Github",
+        "meta": "@Github",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3528e289-de8c-403a-a004-bfddfcd60a84",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "git",
+        "alias": "Github",
+        "meta": "@Github",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e31d68e6-378c-4d0c-9cc3-25c0b16ffc00",
+    "data": [
+      {
+        "text": "github",
+        "alias": "Github",
+        "meta": "@Github",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dd8af31-4c80-4bce-98cd-0edc9510e3e6",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "github",
+        "alias": "Github",
+        "meta": "@Github",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

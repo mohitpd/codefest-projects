@@ -1,0 +1,40 @@
+{
+  "id": "09eee2ab-99df-46e4-8ee6-00c6bbab1909",
+  "name": "About twitter",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9f3c5c2a-13be-45ea-bd57-32f01f20eda9",
+          "required": true,
+          "dataType": "@twitter",
+          "name": "twitter",
+          "value": "$twitter",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Twitter is a free social networking microblogging service that allows registered members to broadcast short posts called tweets."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

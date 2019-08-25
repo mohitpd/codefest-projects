@@ -1,0 +1,64 @@
+{
+  "id": "f09cf97c-f90a-4c63-905f-a8e93562b9ea",
+  "name": "Community_members",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a8d3fdd2-d7da-49b3-af98-606d4301f98d",
+          "required": true,
+          "dataType": "@Members",
+          "name": "Members",
+          "value": "$Members",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "803bb7d6-3ecb-43d1-98af-ecd7db1bc398",
+          "required": false,
+          "dataType": "@Github",
+          "name": "Github",
+          "value": "$Github",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0781c4a7-7bb2-4773-96d0-e0786528e83f",
+          "required": false,
+          "dataType": "@Community",
+          "name": "Community",
+          "value": "$Community",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are lots of the members in the community. Go to Team tab and you can see the members of the community. And to join the group, go to the home page and scroll down the page and you can see the  \"How to join our community?\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

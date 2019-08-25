@@ -1,0 +1,52 @@
+{
+  "id": "e4e12f55-69cd-48f3-8d0f-d6b3da551c2d",
+  "name": "Objective",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8e379297-1b9c-4232-b5b0-416e18961fb0",
+          "required": true,
+          "dataType": "@Objective_devfest",
+          "name": "Objective_devfest",
+          "value": "$Objective_devfest",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7b4616dc-9664-43cd-a443-73a54d71be98",
+          "required": false,
+          "dataType": "@Upcoming_events",
+          "name": "Upcoming_events",
+          "value": "$Upcoming_events",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The objective of these study groups is to raise the technical proficiency of our members, and to have fun while learning new exciting technologies. GDG DevFests are large tech conferences held in Glasgow. They are full of speakers and workshops all presented by the world\u0027s experts. Everyone is encouraged to attend."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

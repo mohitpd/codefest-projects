@@ -1,0 +1,208 @@
+[
+  {
+    "id": "2768d6c3-4e48-4a5b-afd4-f7e86addc0ce",
+    "data": [
+      {
+        "text": "How to join the ",
+        "userDefined": false
+      },
+      {
+        "text": "GitHub",
+        "alias": "Github",
+        "meta": "@Github",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "community",
+        "alias": "Community",
+        "meta": "@Community",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cfad905-6858-4cf1-bed7-b518f041852f",
+    "data": [
+      {
+        "text": "How to join the twitter community?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "339f0c8d-fc57-44a6-9df3-ccfe79eb903a",
+    "data": [
+      {
+        "text": "how to join ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b4339f4-5217-45b6-9ecc-2a65de98d0fe",
+    "data": [
+      {
+        "text": "how to be a ",
+        "userDefined": false
+      },
+      {
+        "text": "member",
+        "alias": "Members",
+        "meta": "@Members",
+        "userDefined": true
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "community",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54f65134-f21e-401c-935e-a3ffc2ea359f",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "groups",
+        "alias": "Members",
+        "meta": "@Members",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "502d3e9e-8003-4f74-a989-a924be6804ce",
+    "data": [
+      {
+        "text": "group members",
+        "alias": "Members",
+        "meta": "@Members",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b9b5c14-a2ab-4cda-a311-86b37d469dff",
+    "data": [
+      {
+        "text": "how to join ",
+        "userDefined": false
+      },
+      {
+        "text": "community",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "members",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9734285f-cbf7-4195-94c6-c40757e08282",
+    "data": [
+      {
+        "text": "tell me, ",
+        "userDefined": false
+      },
+      {
+        "text": "community members",
+        "alias": "Members",
+        "meta": "@Members",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed3a3e90-04e3-45cf-9cd4-cefab6b373b3",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "community",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "members",
+        "alias": "Members",
+        "meta": "@Members",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

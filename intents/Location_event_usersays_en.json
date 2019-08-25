@@ -1,0 +1,194 @@
+[
+  {
+    "id": "50a8a6a8-713d-4a77-9b1f-f27d764dca35",
+    "data": [
+      {
+        "text": "area",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": true
+      },
+      {
+        "text": " of the event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f016aead-309e-4629-85a6-256adb181c4e",
+    "data": [
+      {
+        "text": "event ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e3b558a-5bcf-4434-925d-b9a70741e92c",
+    "data": [
+      {
+        "text": "please tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ad53f09-3edc-4186-96da-e1912b1d4ddd",
+    "data": [
+      {
+        "text": "Siliguri ",
+        "userDefined": false
+      },
+      {
+        "text": "gdg",
+        "alias": "Community",
+        "meta": "@Community",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": ",please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "824a8f30-d02e-47c1-9ee8-327e03ddfa33",
+    "data": [
+      {
+        "text": "In which ",
+        "userDefined": false
+      },
+      {
+        "text": "area",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3860db7-0f6f-445b-a9f7-44e1ee839bb7",
+    "data": [
+      {
+        "text": "location",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": " of the event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72bb1c65-ce6b-41b6-83ec-2a87a36f4f32",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "address",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69f0b3bd-022f-448d-9972-2cdab5162a8f",
+    "data": [
+      {
+        "text": "address",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c5a603b-27ea-4479-9f88-02fefc629abe",
+    "data": [
+      {
+        "text": "Where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

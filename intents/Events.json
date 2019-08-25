@@ -1,0 +1,64 @@
+{
+  "id": "ff6460d4-f397-4b8a-856b-0d1e6b0dfa30",
+  "name": "Events",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "75573b05-2b79-48c6-adeb-50d931071f91",
+          "required": true,
+          "dataType": "@Upcoming_events",
+          "name": "Upcoming_events",
+          "value": "$Upcoming_events",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0bc0f134-f0bc-4efe-ab85-2381b80d805c",
+          "required": false,
+          "dataType": "@Community",
+          "name": "Community",
+          "value": "$Community",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "98464a30-8c74-4b73-b5e3-c4bb248700f2",
+          "required": false,
+          "dataType": "@Upcoming_events",
+          "name": "Upcoming_events1",
+          "value": "$Upcoming_events1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To know about upcoming events, Please join the community."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

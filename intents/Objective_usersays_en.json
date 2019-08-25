@@ -1,0 +1,138 @@
+[
+  {
+    "id": "e1fc5da7-793c-44d3-be19-8552f7fbbb62",
+    "data": [
+      {
+        "text": "Can you please tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "the advantages",
+        "alias": "Objective_devfest",
+        "meta": "@Objective_devfest",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "965d220c-31cd-4aea-a3b1-791a7b745bbd",
+    "data": [
+      {
+        "text": "why the student should join the devfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de0aae2f-f4aa-472d-aac4-aafe3a0a4a16",
+    "data": [
+      {
+        "text": "How devfest can improve me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03f8e56e-d08e-414f-99e5-fcfe134a9d1f",
+    "data": [
+      {
+        "text": "Aim",
+        "alias": "Objective_devfest",
+        "meta": "@Objective_devfest",
+        "userDefined": false
+      },
+      {
+        "text": " of the devfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0f4e362-fa05-4c09-a379-094a484c0c91",
+    "data": [
+      {
+        "text": "motive",
+        "alias": "Objective_devfest",
+        "meta": "@Objective_devfest",
+        "userDefined": false
+      },
+      {
+        "text": " of this ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "alias": "Upcoming_events",
+        "meta": "@Upcoming_events",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e018bb2-61ea-46f3-8cc1-1502d7d0a902",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "objectives",
+        "alias": "Objective_devfest",
+        "meta": "@Objective_devfest",
+        "userDefined": false
+      },
+      {
+        "text": " of devfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27016aa1-bb33-4d36-9968-ab25cf2739e8",
+    "data": [
+      {
+        "text": "devfest ",
+        "userDefined": false
+      },
+      {
+        "text": "objective",
+        "alias": "Objective_devfest",
+        "meta": "@Objective_devfest",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

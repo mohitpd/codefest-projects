@@ -1,0 +1,9 @@
+{
+  "id": "aa415ab6-19f2-4755-a8f1-eb46c7a7f033",
+  "name": "Upcoming_events",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

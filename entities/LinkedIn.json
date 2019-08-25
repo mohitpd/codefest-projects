@@ -1,0 +1,9 @@
+{
+  "id": "71e05f30-af2b-4620-bb5d-261db0236b25",
+  "name": "LinkedIn",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

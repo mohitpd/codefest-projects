@@ -1,0 +1,9 @@
+{
+  "id": "05135a9f-ba58-449c-bfe7-3b45ebe9523d",
+  "name": "Objective_devfest",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

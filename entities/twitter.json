@@ -1,0 +1,9 @@
+{
+  "id": "9897b2e0-0ec1-4361-971e-dd222c70e28a",
+  "name": "twitter",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

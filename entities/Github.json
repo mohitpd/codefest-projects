@@ -1,0 +1,9 @@
+{
+  "id": "78657ad8-c85b-4454-9895-a4602a2e3687",
+  "name": "Github",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "53b20f28-6361-4087-adb0-4b8da24b2ca5",
+  "name": "Community",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
